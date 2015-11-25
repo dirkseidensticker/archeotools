@@ -1,0 +1,174 @@
+For M5|Adr     1|TG  EINGABEWERTE               |m        1.000000     |th         1.3000 m   |ih         1.6130 m   | 
+For M5|Adr     2|TG  EINGABEWERTE               |T_           15.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr     3|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr     4|TG  EINGABEWERTE               |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr     5|TG  EINGABEWERTE               |T_           14.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr     6|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr     7|TI  SPEZIAL/ABST. PUNKT-GERADE |                      |                      |                      | 
+For M5|Adr     8|PI1                       13:37|D         13.7671 m   |Hz      159.07380 gon |V1       99.68230 gon | 
+For M5|Adr     9|PI1                       13:38|D         18.6441 m   |Hz      258.05603 gon |V1      100.25181 gon | 
+For M5|Adr    10|PI1                            |y          0.0000 m   |x         22.9982 m   |h         -0.1424 m   | 
+For M5|Adr    11|TI  STATION                    |y         11.1590 m   |x          8.0626 m   |z         -0.3757 m   | 
+For M5|Adr    12|PI1 12.6  pr1             13:43|D         14.6773 m   |Hz      370.92918 gon |V1       99.91992 gon | 
+For M5|Adr    13|PI1 12.6  pr1             13:43|y         24.4417 m   |x         14.3070 m   |z         -0.0502 m   | 
+For M5|Adr    14|PI1 12.7  pr1             13:43|D         13.6733 m   |Hz      378.68405 gon |V1      100.05314 gon | 
+For M5|Adr    15|PI1 12.7  pr1             13:43|y         24.1483 m   |x         12.3332 m   |z         -0.0801 m   | 
+For M5|Adr    16|PI1 13.1  PL1             13:45|D         12.4410 m   |Hz      382.57546 gon |V1      102.10088 gon | 
+For M5|Adr    17|PI1 13.1  PL1             13:45|y         23.1863 m   |x         11.2173 m   |z         -0.4792 m   | 
+For M5|Adr    18|PI1 13.2  PL1             13:45|D         12.3720 m   |Hz      380.01127 gon |V1      102.09910 gon | 
+For M5|Adr    19|PI1 13.2  PL1             13:45|y         22.9836 m   |x         11.6789 m   |z         -0.4766 m   | 
+For M5|Adr    20|PI1 13.3  PL1             13:45|D         12.8885 m   |Hz      379.55140 gon |V1      101.94009 gon | 
+For M5|Adr    21|PI1 13.3  PL1             13:45|y         23.4507 m   |x         11.9191 m   |z         -0.4614 m   | 
+For M5|Adr    22|PI1 13.4  PL1             13:46|D         12.9579 m   |Hz      382.16668 gon |V1      102.04626 gon | 
+For M5|Adr    23|PI1 13.4  PL1             13:46|y         23.6650 m   |x         11.4289 m   |z         -0.4851 m   | 
+For M5|Adr    24|PI1 14.1  PL1             13:48|D          6.1670 m   |Hz       93.45256 gon |V1      100.58105 gon | 
+For M5|Adr    25|PI1 14.1  PL1             13:48|y         11.6866 m   |x          1.9185 m   |z         -0.1250 m   | 
+For M5|Adr    26|PI1 14.2  PL1             13:49|D          7.1509 m   |Hz      103.82934 gon |V1      100.66668 gon | 
+For M5|Adr    27|PI1 14.2  PL1             13:49|y         10.6065 m   |x          0.9335 m   |z         -0.1436 m   | 
+For M5|Adr    28|PI1 14.3  PL1             13:49|D          8.6687 m   |Hz       99.57537 gon |V1      100.50628 gon | 
+For M5|Adr    29|PI1 14.3  PL1             13:49|y         11.0678 m   |x         -0.6054 m   |z         -0.1377 m   | 
+For M5|Adr    30|PI1 14.4  PL1             13:49|D          8.8864 m   |Hz       89.07310 gon |V1      100.30958 gon | 
+For M5|Adr    31|PI1 14.4  PL1             13:49|y         12.5261 m   |x         -0.7179 m   |z         -0.1119 m   | 
+For M5|Adr    32|PI1 14.5  PL1             13:49|D          7.8543 m   |Hz       81.70009 gon |V1      100.37038 gon | 
+For M5|Adr    33|PI1 14.5  PL1             13:49|y         13.2560 m   |x          0.4936 m   |z         -0.1144 m   | 
+For M5|Adr    34|PI1 14.6  PL1             13:49|D          6.4094 m   |Hz       85.58506 gon |V1      100.55672 gon | 
+For M5|Adr    35|PI1 14.6  PL1             13:49|y         12.4903 m   |x          1.7932 m   |z         -0.1248 m   | 
+For M5|Adr    36|PI1 14.7  PL1             13:53|D          6.4094 m   |Hz       85.58506 gon |V1      100.55672 gon | 
+For M5|Adr    37|PI1 14.7  PL1             13:53|y         12.4903 m   |x          1.7932 m   |z         -0.1248 m   | 
+For M5|Adr    38|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr    39|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    40|TI  SPEZIAL/ABST. PUNKT-GERADE |                      |                      |                      | 
+For M5|Adr    41|PI1 0003  Fix3            13:57|D          6.9892 m   |Hz      324.47441 gon |V1       99.48615 gon | 
+For M5|Adr    42|PI1 0003  Fix3            13:57|y         13.8911 m   |x         14.4954 m   |z         -0.0123 m   | 
+For M5|Adr    43|PI1 0001  Fix1            13:58|D         13.7669 m   |Hz      159.04925 gon |V1       99.64084 gon | 
+For M5|Adr    44|PI1 0001  Fix1            13:58|y          0.0034 m   |x         -0.0041 m   |z          0.0090 m   | 
+For M5|Adr    45|PI1 0002  Fix2            13:59|D         18.6450 m   |Hz      258.06360 gon |V1      100.27650 gon | 
+For M5|Adr    46|PI1 0002  Fix2            13:59|y          0.0010 m   |x         23.0000 m   |z         -0.1500 m   | 
+For M5|Adr    47|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr    48|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    49|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr    50|TG  EINGABEWERTE               |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    51|TG  EINGABEWERTE               |T_           15.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr    52|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr    53|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr    54|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr    55|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr    56|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr    57|TG  EINGABEWERTE               |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    58|TG  EINGABEWERTE               |T_           14.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr    59|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr    60|TI  SPEZIAL/ABST. PUNKT-GERADE |                      |                      |                      | 
+For M5|Adr    61|PI1                       15:19|D         13.7634 m   |Hz      146.38731 gon |V1       99.64036 gon | 
+For M5|Adr    62|PI1                       15:19|D         18.6455 m   |Hz      245.37794 gon |V1      100.26848 gon | 
+For M5|Adr    63|PI1                            |y          0.0000 m   |x         22.9986 m   |h         -0.1564 m   | 
+For M5|Adr    64|TI  STATION                    |y         11.1566 m   |x          8.0595 m   |z         -0.3848 m   | 
+For M5|Adr    65|PI1 00001 KtrP1           15:21|D         13.7620 m   |Hz      146.33240 gon |V1       99.65990 gon | 
+For M5|Adr    66|PI1 00001 KtrP1           15:21|E         13.7615 m   |Hz      146.33241 gon |h          0.3805 m   | 
+For M5|Adr    67|PI1 00002 KtrP2           15:22|D         18.6488 m   |Hz      245.37354 gon |V1      100.26325 gon | 
+For M5|Adr    68|PI1 00002 KtrP2           15:22|E         18.6486 m   |Hz      245.37354 gon |h          0.2299 m   | 
+For M5|Adr    69|PI1 00003 KtrP3           15:23|D          6.9895 m   |Hz      311.83564 gon |V1       99.44709 gon | 
+For M5|Adr    70|PI1 00003 KtrP3           15:23|E          6.9893 m   |Hz      311.83564 gon |h          0.3677 m   | 
+For M5|Adr    71|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr    72|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    73|TI  STAT. BEK. PUNKT           |                      |                      |                      | 
+For M5|Adr    74|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    75|PI1 1234  mama            15:29|D          6.9921 m   |Hz      311.83455 gon |V1       99.43732 gon | 
+For M5|Adr    76|PI1 1234  mama            15:30|D          6.9940 m   |Hz      312.10365 gon |V1       99.41830 gon | 
+For M5|Adr    77|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr    78|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    79|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr    80|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    81|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr    82|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    83|PI1 00001 Fix1                 |Y          0.0000 m   |X          0.0000 m   |Z          0.0000 m   | 
+For M5|Adr    84|PI1 00002 Fix2                 |Y          0.0000 m   |X         23.0000 m   |Z         -0.1500 m   | 
+For M5|Adr    85|PI1 00003 Fix3                 |Y         13.8910 m   |X         14.4950 m   |Z         -0.0120 m   | 
+For M5|Adr    86|TG  EINGABEWERTE               |                      |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    87|TG  EINGABEWERTE               |T_           14.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr    88|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr    89|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr    90|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    91|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr    92|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    93|TG  EINGABEWERTE               |                      |th         1.3000 m   |ih         1.6070 m   | 
+For M5|Adr    94|TG  EINGABEWERTE               |T_           12.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr    95|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr    96|TG  EINGABEWERTE               |                      |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr    97|TG  EINGABEWERTE               |T_           12.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr    98|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr    99|PI1 00001 Fix1            16:17|D         21.6122 m   |Hz       55.13963 gon |V1       99.79440 gon | 
+For M5|Adr   100|PI1 00002 Fix2            16:18|D          8.9842 m   |Hz      151.98676 gon |V1      100.65937 gon | 
+For M5|Adr   101|PI1 00003 Fix3            16:19|D          7.7366 m   |Hz      379.53764 gon |V1       99.65360 gon | 
+For M5|Adr   102|TI  EINZELPUNKTAUSGL.: m = frei|                      |                      |                      | 
+For M5|Adr   103|TI  Std.abw. a priori          |sk         0.0010 m   |sa        0.00030 gon |                      | 
+For M5|Adr   104|TI  Std.abw. a priori          |sl              0 ppm |                      |sp         0.0000 m   | 
+For M5|Adr   105|PI1 00001 Fix1            16:17|vl         0.0219 m   |va        0.00442 gon |vq         0.0015 m   | 
+For M5|Adr   106|PI1 00002 Fix2            16:18|vl        -0.0557 m   |va       -0.00216 gon |vq        -0.0003 m   | 
+For M5|Adr   107|PI1 00003 Fix3            16:19|vl         0.0034 m   |va       -0.00226 gon |vq        -0.0003 m   | 
+For M5|Adr   108|TI  HOEHENSTATIONIERUNG        |                      |                      |                      | 
+For M5|Adr   109|TI  Gewichtseinheitsstrecke    |D         30.0000 m   |                      |                      | 
+For M5|Adr   110|PI1 00001 Fix1            16:17|                      |                      |vz         0.0095 m   | 
+For M5|Adr   111|PI1 00002 Fix2            16:18|                      |                      |vz        -0.0033 m   | 
+For M5|Adr   112|PI1 00003 Fix3            16:19|                      |                      |vz        -0.0062 m   | 
+For M5|Adr   113|PI1                            |Y          8.3942 m   |X         19.9485 m   |Z         -0.3683 m   | 
+For M5|Adr   114|PI1                            |sy         0.0067 m   |sx         0.0067 m   |sz         0.0048 m   | 
+For M5|Adr   115|PI1                            |m        1.000398     |Om      170.21281 gon |ih         1.6080 m   | 
+For M5|Adr   116|PI1                            |sm       0.000147     |so        0.02588 gon |                      | 
+For M5|Adr   117|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr   118|PI1 11111 svdpj           16:22|D         21.6122 m   |Hz      225.36654 gon |V1       99.80394 gon | 
+For M5|Adr   119|PI1 11111 svdpj           16:22|y         -8.3854 m   |x        -19.9190 m   |z          0.3746 m   | 
+For M5|Adr   120|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr   121|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr   122|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr   123|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr   124|PI1 00001 Fix1            16:26|D         21.6125 m   |Hz       55.16633 gon |V1       99.81283 gon | 
+For M5|Adr   125|PI1 00002 Fix2            16:26|D          8.9883 m   |Hz      152.05476 gon |V1      100.64445 gon | 
+For M5|Adr   126|PI1 00003 Fix3            16:27|D          7.7401 m   |Hz      379.53364 gon |V1       99.65376 gon | 
+For M5|Adr   127|TI  EINZELPUNKTAUSGL.: m = frei|                      |                      |                      | 
+For M5|Adr   128|TI  Std.abw. a priori          |sk         0.0010 m   |sa        0.00030 gon |                      | 
+For M5|Adr   129|TI  Std.abw. a priori          |sl              0 ppm |                      |sp         0.0000 m   | 
+For M5|Adr   130|PI1 00001 Fix1            ZwErg|vl         0.0239 m   |va        0.00495 gon |vq         0.0017 m   | 
+For M5|Adr   131|PI1 00002 Fix2            ZwErg|vl        -0.0617 m   |va       -0.00242 gon |vq        -0.0003 m   | 
+For M5|Adr   132|PI1 00003 Fix3            ZwErg|vl         0.0049 m   |va       -0.00253 gon |vq        -0.0003 m   | 
+For M5|Adr   133|PI1                       ZwErg|Y          8.3885 m   |X         19.9465 m   |                      | 
+For M5|Adr   134|PI1                       ZwErg|sy         0.0074 m   |sx         0.0074 m   |                      | 
+For M5|Adr   135|PI1                       ZwErg|m        1.000104     |Om      170.17237 gon |ih         1.6080 m   | 
+For M5|Adr   136|PI1                       ZwErg|sm       0.000162     |so        0.02859 gon |                      | 
+For M5|Adr   137|TI  EINZELPUNKTAUSGL.: m = frei|                      |                      |                      | 
+For M5|Adr   138|TI  Std.abw. a priori          |sk         0.0010 m   |sa        0.00030 gon |                      | 
+For M5|Adr   139|TI  Std.abw. a priori          |sl              0 ppm |                      |sp         0.0000 m   | 
+For M5|Adr   140|PI1 00001 Fix1            16:26|vl         0.0239 m   |va        0.00495 gon |vq         0.0017 m   | 
+For M5|Adr   141|PI1 00002 Fix2            16:26|vl        -0.0617 m   |va       -0.00242 gon |vq        -0.0003 m   | 
+For M5|Adr   142|PI1 00003 Fix3            16:27|vl         0.0049 m   |va       -0.00253 gon |vq        -0.0003 m   | 
+For M5|Adr   143|TI  HOEHENSTATIONIERUNG        |                      |                      |                      | 
+For M5|Adr   144|PI1 00003 Fix3            16:33|D          7.7388 m   |Hz      379.53705 gon |V1       99.63487 gon | 
+For M5|Adr   145|TI  Gewichtseinheitsstrecke    |D         30.0000 m   |                      |                      | 
+For M5|Adr   146|PI1 00001 Fix1            16:26|                      |                      |vz         0.0000 m   | 
+For M5|Adr   147|PI1 00002 Fix2            16:26|                      |                      |vz         0.0000 m   | 
+For M5|Adr   148|PI1 00003 Fix3            16:27|                      |                      |vz         0.0000 m   | 
+For M5|Adr   149|PI1 00003 Fix3            16:33|                      |                      |vz         0.0000 m   | 
+For M5|Adr   150|PI1                            |Y          8.3885 m   |X         19.9465 m   |Z         -0.3663 m   | 
+For M5|Adr   151|PI1                            |sy         0.0074 m   |sx         0.0074 m   |sz         0.0020 m   | 
+For M5|Adr   152|PI1                            |m        1.000104     |Om      170.17237 gon |ih         1.6080 m   | 
+For M5|Adr   153|PI1                            |sm       0.000162     |so        0.02859 gon |                      | 
+For M5|Adr   154|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr   155|PI1 00003 Fix3            16:34|D         21.6093 m   |Hz      225.28740 gon |V1       99.81863 gon | 
+For M5|Adr   156|PI1 00003 Fix3            16:34|y         -8.3595 m   |x        -19.9267 m   |z          0.3696 m   | 
+For M5|Adr   157|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr   158|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr   159|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr   160|TG  EINGABEWERTE               |m        1.000000     |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr   161|TG  EINGABEWERTE               |T_           10.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr   162|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr   163|TG  EINGABEWERTE               |m        1.000000     |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr   164|TG  EINGABEWERTE               |T_           11.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr   165|TI  OHNE REFLEKTOR           DR|                      |                      |PK          0.000 m   | 
+For M5|Adr   166|TG  EINGABEWERTE               |m        1.000000     |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr   167|TG  EINGABEWERTE               |T_           11.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr   168|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
+For M5|Adr   169|TI  FREIE STATIONIERUNG        |                      |                      |                      | 
+For M5|Adr   170|TI                             |m        1.000000     |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr   171|TI  MESSUNG                    |                      |                      |                      | 
+For M5|Adr   172|TG  EINGABEWERTE               |m        1.000000     |th         1.3000 m   |ih         1.6080 m   | 
+For M5|Adr   173|TG  EINGABEWERTE               |T_           15.0 C   |P          1013.0 hPa |A          0.0350 m   | 
+For M5|Adr   174|TI  REFLEX FOLIE             PR|                      |                      |PK          0.000 m   | 
